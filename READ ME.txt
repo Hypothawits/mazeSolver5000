@@ -1,0 +1,13 @@
+Hello! 
+To use the mazeSolver5000.exe please ensure that the needed dependencies are included in the same directory as the executable.
+The needed dependencies are:
+	freeglut.dll
+	glew32.dll
+	glfw3.dll
+Theoretically only the freeglut.dll is needed on the lab computers, however to be same I've included the others.
+
+For using the mazeSolver5000.exe with the SolverTest program, please have the SolverTest.exe in the same directory as the mazeSolver5000.exe and its dependencies.
+
+Also, the program and tester don't play well together when on the desktop of the lab computers, please run them from the C or H drives.
+
+Thank you for reading!
